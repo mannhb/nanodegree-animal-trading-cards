@@ -1,0 +1,48 @@
+/* Borders */
+.mainborder {
+  border-style: solid;
+  border-width: thin;
+  width: 303px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  box-shadow:  5px 10px #D3D3D3;
+  background-color: #f4a460;
+  border-radius: 20px 20px;
+}
+
+.infoborder {
+  border-style: solid;
+  border-width: thin;
+  width: 300px;
+}
+
+/* Content */
+.image {
+  padding-bottom: 10px;
+}
+
+#fact {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.description {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
