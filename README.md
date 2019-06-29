@@ -1,1 +1,1 @@
-# nanodegree-animal-trading-cards
+# Animal Trading Cards - Udacity Intro. to Programming Nanodegree
